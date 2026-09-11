@@ -37,4 +37,6 @@ console.log("B", myarry);
 
 const myn2 = myarry.splice(1, 3);
 console.log(myn2);
+
+
 console.log("C", myarry);
